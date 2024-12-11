@@ -4,11 +4,9 @@
 ## Technologies & Skills
 
 * iOS Development
-* Swift & SwiftUI
-* UIKit
+* Swift, UIKit & SwiftUI
 * Core Data, Combine, and Async/Await
 * Swift Package Manager (SPM)
-
 
 ## Cross-Platform Development
 
@@ -16,7 +14,6 @@
 * Jetpack Compose (beginner)
 * Backend & Scripting
 * Python (for automation, scripting, and backend APIs)
-
 
 ## 🌐 Socials:
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@amr.raafat.89) 
