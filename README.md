@@ -1,16 +1,36 @@
-## Hi there 👋
+## Hi there 👋 
+#### I'm Amr, an iOS Developer passionate about crafting intuitive and high-quality mobile applications. While my main focus is on iOS development, I also enjoy exploring other technologies and languages like Kotlin and Python. I'm always excited to learn and experiment with tools that help create impactful software solutions.
 
-<!--
-**amrOmran89/amrOmran89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Technologies & Skills
 
-Here are some ideas to get you started:
+* iOS Development
+* Swift & SwiftUI
+* UIKit
+* Core Data, Combine, and Async/Await
+* Swift Package Manager (SPM)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Cross-Platform Development
+
+* Kotlin/Multiplatform
+* Jetpack Compose (beginner)
+* Backend & Scripting
+* Python (for automation, scripting, and backend APIs)
+
+## Tools & Practices
+
+* Git for version control
+* Xcode IDE mastery
+* CI/CD pipelines Bitbucket
+
+## Test-driven development (TDD)
+
+What I’m Working On
+* Building innovative iOS apps with clean and scalable architectures.
+* Exploring Kotlin for cross-platform and Android development.
+* Creating small utilities and automations in Python.
+
+## Fun Facts
+
+I’m a fan of functional programming and love incorporating its principles into my work.
+
+Outside of coding, I enjoy playing tennis and exploring new technologies.
