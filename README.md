@@ -11,7 +11,7 @@
 ## Cross-Platform Development
 
 * Kotlin/Multiplatform
-* Jetpack Compose (beginner)
+* Jetpack Compose
 * Backend & Scripting
 * Python (for automation, scripting, and backend APIs)
 
