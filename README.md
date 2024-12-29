@@ -17,6 +17,7 @@
 
 ## 🌐 Socials:
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@amr.raafat.89) 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amr-omran-61a166341/)) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
