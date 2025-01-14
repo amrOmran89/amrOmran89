@@ -1,7 +1,6 @@
 ## Hi there 👋 
 #### I'm Amr, an iOS Developer passionate about crafting intuitive and high-quality mobile applications. While my main focus is on iOS development, I also enjoy exploring other technologies and languages like Kotlin and Python. I'm always excited to learn and experiment with tools that help create impactful software solutions.
 
-
 ## Technologies & Skills
 
 * iOS Development
