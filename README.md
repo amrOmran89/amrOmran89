@@ -7,6 +7,7 @@
 * Swift, UIKit & SwiftUI
 * Core Data, Combine, and Async/Await
 * Swift Package Manager (SPM)
+* Angular
 
 ## Cross-Platform Development
 
