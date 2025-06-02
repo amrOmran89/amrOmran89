@@ -24,6 +24,6 @@
 
 ## Fun Facts
 
-I’m a fan of functional programming and love incorporating its principles into my work.
+I’m a fan of functional programming and concurrency and love incorporating its principles into my work.
 
 Outside of coding, I enjoy playing tennis and exploring new technologies.
