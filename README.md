@@ -7,13 +7,16 @@
 * Swift, UIKit & SwiftUI
 * Core Data, Combine, and Async/Await
 * Swift Package Manager (SPM)
-* Angular
 
 ## Cross-Platform Development
 
 * Kotlin/Multiplatform
 * Jetpack Compose
-* Backend & Scripting
+
+## Backend & Scripting
+
+* Go (for APIs and backend services)
+* Kotlin Ktor (for lightweight, modern backend development)
 * Python (for automation, scripting, and backend APIs)
 
 ## 🌐 Socials:
